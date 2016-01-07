@@ -1,4 +1,4 @@
-#Matlab Library for the Robotis Dynamixel Pro servos
+#Matlab Library for the Robotis Dynamixel Pro servo
 
 By Federico Parietti
 
